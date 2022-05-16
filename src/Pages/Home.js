@@ -1,5 +1,5 @@
 import React from 'react';
-import '../App.css';
+import '../app.css';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { useState } from 'react';
 import { AnimateSharedLayout } from "framer-motion"
@@ -15,7 +15,7 @@ function Home() {
         
         
        
-        <div class="scrollable">
+        <div class="scrollable">git push -u origin main
         
       <div class="page2"> 
       

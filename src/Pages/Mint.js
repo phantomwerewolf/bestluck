@@ -3,9 +3,9 @@
 import { useEffect } from 'react';
 import { useState } from 'react';
 import { ethers } from 'ethers';
-import '../App.css';
+import '../app.css';
 
-import  Home  from '../Pages/Home';
+import  Home  from './home';
 import contract from '../contracts/NFTCollectible.json';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 
