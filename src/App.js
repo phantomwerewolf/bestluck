@@ -1,10 +1,7 @@
-import { useEffect } from 'react';
-import { useState } from 'react';
-import { ethers } from 'ethers';
 import './app.css';
-import  Whitelist  from './Pages/whitelist';
-import  Mint  from './Pages/mint';
-import  Home  from './Pages/home';
+import  Whitelist  from './pages/whitelist';
+import  Mint  from './pages/mint';
+import  Home  from './pages/home';
 import contract from './contracts/NFTCollectible.json';
 import { BrowserRouter as Router, Routes, Route, } from 'react-router-dom';
 import { HashLink as Link } from 'react-router-hash-link';

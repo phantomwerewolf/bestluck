@@ -15,7 +15,7 @@ function Home() {
         
         
        
-        <div class="scrollable">git push -u origin main
+        <div class="scrollable">
         
       <div class="page2"> 
       
